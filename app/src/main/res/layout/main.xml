@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="2"
+        android:collapseColumns="2">
+
+        <TableRow       android:gravity="left">
+         <Button
+		        android:id="@+id/button1"
+		        android:layout_height="wrap_content"
+		        android:text="項目を追加" 
+		        android:onClick="onClick1"
+        />
+
+   		 <Button
+   		     android:id="@+id/button2"
+   		     android:layout_width="match_parent"
+   		     android:layout_height="wrap_content"
+   		     android:onClick="onClick3"
+   		     android:text="項目を修正" />
+            
+        </TableRow>
+        <TableRow       android:gravity="left">
+         <Button
+		        android:id="@+id/button3"
+		        android:layout_height="wrap_content"
+		        android:text="サービスを開始" 
+		        android:onClick="onClick4"
+        />
+
+   		 <Button
+		        android:id="@+id/button4"
+		        android:layout_height="wrap_content"
+		        android:text="サービスを停止" 
+		        android:onClick="onClick5"
+        />
+        </TableRow>
+        
+    </TableLayout>
+    
+</LinearLayout>

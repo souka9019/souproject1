@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\helloview.xml",
+        "source": "C:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\src\\main\\res\\layout\\helloview.xml"
+    },
+    {
+        "merged": "C:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

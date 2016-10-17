@@ -1,0 +1,7 @@
+#Tue Oct 18 00:36:35 GMT+09:00 2016
+base.0=C\:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a90280b897f97845119a4f73b39137306111718b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ef3c6ad561cdea06ab0d4b25e000927e632aa391\\classes.dex
+base.1=C\:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ef3c6ad561cdea06ab0d4b25e000927e632aa391
+file.0=C\:\\Users\\haku\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a90280b897f97845119a4f73b39137306111718b\\classes.dex
